@@ -2,7 +2,7 @@
 
 A practical approach to AI-assisted software development, with reusable skills to support each stage.
 
-Inspired by the delegation principle in Dan Martell’s [Buy Back Your Time](https://www.goodreads.com/en/book/show/60880804-buy-back-your-time), this repository adapts the idea to working with AI on software.
+Inspired by the delegation principle in [Dan Martell](https://www.linkedin.com/in/dmartell/)’s [Buy Back Your Time](https://www.goodreads.com/en/book/show/60880804-buy-back-your-time), this repository adapts the idea to working with AI on software.
 
 ## The rule
 
