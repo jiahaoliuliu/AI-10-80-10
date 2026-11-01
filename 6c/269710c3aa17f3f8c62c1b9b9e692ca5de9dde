@@ -1,0 +1,19 @@
+README.md
+  s_04ed72dd980aa1::t_f83b8432ba441a 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "6c269710c3aa17f3f8c62c1b9b9e692ca5de9dde",
+  "prompts": {},
+  "sessions": {
+    "s_04ed72dd980aa1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1986a-7995-7bc2-9fbf-867b9e88f606",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Jiahao Liu Liu <jiahao.liu@glovoapp.com>"
+    }
+  }
+}
