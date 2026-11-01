@@ -1,4 +1,4 @@
-# AI 10/80/10
+# AI 10/80/10 (Work in progress)
 
 A practical approach to AI-assisted software development, with reusable skills to support each stage.
 
